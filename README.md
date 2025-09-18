@@ -9,4 +9,4 @@
 - [Private Cloud](./private-cloud.md)
 - [Hybrid Cloud](./hybrid-cloud.md)
 
-> Alle Texte in eigenen Worten. Grafiken & Quellen sind verlinkt.
+
