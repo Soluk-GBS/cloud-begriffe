@@ -1,5 +1,4 @@
-# Cloud-Begriffe – kompakt & praxisnah
-
+# Cloud-Begriffe 
 
 ## Inhalte
 - [IaaS](./iaas.md)
