@@ -10,12 +10,6 @@
 - [Public Cloud](./public-cloud.md)
 - [Private Cloud](./private-cloud.md)
 - [Hybrid Cloud](./hybrid-cloud.md)
-- [IaaS vs PaaS vs SaaS](./iaas-vs-paas-vs-saas)
-- [Praxis: Anbieter-Beispiele & Use-Cases](#praxis)
-
-## Wie benutzen?
-- Lies die Kurzdefinitionen im README.
-- Details in den einzelnen `.md`-Files.
-- Nutze die Vergleichstabellen & Diagramme für dein Lernjournal.
+- [IaaS vs PaaS vs SaaS](#iaas-vs-paas-vs-saas)
 
 ---
