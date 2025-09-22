@@ -1,9 +1,9 @@
 ## IaaS vs PaaS vs SaaS
 
-| Ebene                | IaaS (z.B. AWS EC2) | PaaS (z.B. Heroku/Azure App Service) | SaaS (z.B. M365) |
-|---------------------|---------------------|--------------------------------------|------------------|
-| Kontrolle           | OS, Runtime, App    | App + geringe Runtime-Konfig         | nur Nutzung      |
-| Verantwortung       | viel beim Kunden    | geteilt                              | v. a. Provider   |
-| Flexibilität        | hoch                | mittel                               | gering           |
-| Aufwand Betrieb     | hoch                | mittel                               | niedrig          |
-| Typische Use-Cases  | Lift-and-Shift, VMs | Webapps schnell deployen             | E-Mail, Office   |
+| Ebene               | IaaS (z. B. AWS EC2)       | PaaS (z. B. Heroku / Azure App Service) | SaaS (z. B. Microsoft 365)   |
+|---------------------|----------------------------|------------------------------------------|------------------------------|
+| **Kontrolle**       | OS, Runtime, Applikation   | Applikation + minimale Runtime-Konfig     | Nur Nutzung                  |
+| **Verantwortung**   | Viel beim Kunden           | Geteilt                                   | Hauptsächlich beim Provider  |
+| **Flexibilität**    | Hoch                       | Mittel                                   | Gering                       |
+| **Aufwand Betrieb** | Hoch                       | Mittel                                   | Niedrig                      |
+| **Use-Cases**       | Lift-and-Shift, VMs        | Webapps schnell deployen                  | E-Mail, Office, CRM          |
