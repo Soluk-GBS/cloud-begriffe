@@ -1,6 +1,5 @@
 # Cloud-Begriffe – kompakt & praxisnah
 
-> Dieses Repo erklärt zentrale Cloud-Begriffe mit kurzen Definitionen, Vergleichen und Beispielen.
 
 ## Inhalte
 - [IaaS](./iaas.md)
