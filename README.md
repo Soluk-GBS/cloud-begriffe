@@ -10,6 +10,6 @@
 - [Public Cloud](./public-cloud.md)
 - [Private Cloud](./private-cloud.md)
 - [Hybrid Cloud](./hybrid-cloud.md)
-- [IaaS vs PaaS vs SaaS](#iaas-vs-paas-vs-saas)
+- [IaaS vs PaaS vs SaaS](./iaas-vs-paas-vs-saas.md)
 
 ---
