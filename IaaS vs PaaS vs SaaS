@@ -1,4 +1,4 @@
-### IaaS vs PaaS vs SaaS
+## IaaS vs PaaS vs SaaS
 
 | Ebene                | IaaS (z.B. AWS EC2) | PaaS (z.B. Heroku/Azure App Service) | SaaS (z.B. M365) |
 |---------------------|---------------------|--------------------------------------|------------------|
